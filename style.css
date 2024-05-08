@@ -117,7 +117,7 @@ nav ul li a:hover {
         bottom: 0;
     }
 }
-
+ 
 @keyframes slidesinDiagRight {
     0% {
         opacity: 0;
