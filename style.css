@@ -35,6 +35,13 @@ body {
     padding: 10px 10%;
 }
 
+.logo {
+    width: 10vw;
+    left: -100px; 
+    bottom: -100px;
+    animation: slidesinDiagLeft 1s ease forwards;
+    animation-delay: 0.5s; 
+}
 
 nav {
     display: flex;
@@ -48,15 +55,6 @@ nav {
     opacity: 0;
 }
 
-.logo {
-    width: 10vw;
-    position: absolute;
-    left: -100px; 
-    bottom: -100px;
-    opacity: 0;
-    animation: slidesinDiagLeft 1s ease forwards;
-    animation-delay: 0.5s; 
-}
 
 nav ul li a {
     right: -100px; 
