@@ -35,7 +35,6 @@ body {
     padding: 10px 10%;
 }
 
-<<<<<<< HEAD
 .logo {
     position: relative;
     opacity: 0;
@@ -44,19 +43,6 @@ body {
     bottom: -100px;
     animation: slidesinDiagLeft 1s ease forwards;
     animation-delay: 0.5s;
-=======
-.logo{
-    position: relative;
-    opacity: 0;
-}
-
-.logo {
-    width: 10vw;
-    left: -100px; 
-    bottom: -100px;
-    animation: slidesinDiagLeft 1s ease forwards;
-    animation-delay: 0.5s; 
->>>>>>> 639f11ce29b753668d06a52e6bef0d8a28f0fe7e
 }
 
 nav {
@@ -69,20 +55,6 @@ nav {
 .header-text {
     position: relative;
     opacity: 0;
-<<<<<<< HEAD
-=======
-}
-
-
-nav ul li a {
-    right: -100px; 
-    bottom: -100px;
-    animation: slidesinDiagRight 1s ease forwards;
-    animation-delay: 0.5s; 
-}
-
-.header-text {
->>>>>>> 639f11ce29b753668d06a52e6bef0d8a28f0fe7e
     margin-top: 20%;
     font-size: 2vw;
     left: -100px;
